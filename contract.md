@@ -51,35 +51,35 @@ rearrange these labs and events to fit your needs.
 
 - [ ] Module 05, 02/09 - 02/13 : Confounding and Communication
 
-  - Finish Lab 6 by Friday: 02/13
+  - Finish Lab 5 by Friday: 02/13
   - Finish portfolio piece 2 by Friday: 02/13
 
 - [ ] Module 06, 02/16 - 02/20 : Web scraping
 
-  - Finish Lab 7 by Friday: 02/20
+  - Finish Lab 6 by Friday: 02/20
   - Schedule a check-in with Mason by Friday: 02/20
 
 - [ ] Module 07, 02/23 - 02/27 : Functions
 
-  - Finish Lab 8 by Friday: 02/27
+  - Finish Lab 7 by Friday: 02/27
   - Finish portfolio piece 3 by Friday: 02/27
 
 - [ ] Module 08, 03/02 - 03/06 : Data and Ethics
 
-  - Finish Lab 9 by Friday: 03/06
+  - Finish Lab 8 by Friday: 03/06
 
 - [ ] Module 09, 03/09 - 03/13 : Modeling the tidy way
 
-  - Finish Lab 10 by Friday: 03/13
+  - Finish Lab 9 by Friday: 03/13
   - Finish portfolio piece 4 by Friday: 03/13
 
 - [ ] Module 10, 03/16 - 03/20 : overfitting and the Cross validation
 
-  - Finish Lab 11 by Friday: 03/20
+  - Finish Lab 10 by Friday: 03/20
 
 - [ ] Module 11, 03/23 - 03/27 : Quantifying uncertainty
 
-  - Finish Lab 12 by Friday: 03/27
+  - Finish Lab 11 by Friday: 03/27
   - Finish portfolio piece 5 by Friday: 03/27
 
 - [ ] Module 12, 03/30 - 04/03 : Large Language Models
