@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 23 2026
+February 16 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -49,52 +49,52 @@ rearrange these labs and events to fit your needs.
 
   - Finish Lab 4 by Friday: 02/06
 
-- [ ] Module 05, 02/09 - 02/13 : Confounding and Communication
+- [ ] Module 05, 02/09 - 02/13 : Tips for Effective Data Visualization
 
   - Finish Lab 5 by Friday: 02/13
   - Finish portfolio piece 2 by Friday: 02/13
 
-- [ ] Module 06, 02/16 - 02/20 : Web scraping
+- [ ] Module 06, 02/16 - 02/20 : Confounding and Communication
 
   - Finish Lab 6 by Friday: 02/20
   - Schedule a check-in with Mason by Friday: 02/20
 
-- [ ] Module 07, 02/23 - 02/27 : Functions
+- [ ] Module 07, 02/23 - 02/27 : Web scraping
 
   - Finish Lab 7 by Friday: 02/27
   - Finish portfolio piece 3 by Friday: 02/27
 
-- [ ] Module 08, 03/02 - 03/06 : Data and Ethics
+- [ ] Module 08, 03/02 - 03/06 : Functions
 
   - Finish Lab 8 by Friday: 03/06
 
-- [ ] Module 09, 03/09 - 03/13 : Modeling the tidy way
+- [ ] Module 09, 03/09 - 03/13 : Data and Ethics
 
   - Finish Lab 9 by Friday: 03/13
   - Finish portfolio piece 4 by Friday: 03/13
 
-- [ ] Module 10, 03/16 - 03/20 : overfitting and the Cross validation
+- [ ] Module 10, 03/16 - 03/20 : Modeling the tidy way
 
   - Finish Lab 10 by Friday: 03/20
 
-- [ ] Module 11, 03/23 - 03/27 : Quantifying uncertainty
+- [ ] Module 11, 03/23 - 03/27 : overfitting and the Cross validation
 
   - Finish Lab 11 by Friday: 03/27
   - Finish portfolio piece 5 by Friday: 03/27
 
-- [ ] Module 12, 03/30 - 04/03 : Large Language Models
+- [ ] Module 12, 03/30 - 04/03 : Quantifying uncertainty
 
   - Finish portfolio piece 6 by Friday: 04/03
 
-- [ ] Module 13, 04/06 - 04/10 : Interactive web apps
+- [ ] Module 13, 04/06 - 04/10 : Large Language Models
 
   - Finish portfolio pieces 7 and 8 by Friday: 04/10
 
-- [ ] Module 14, 04/13 - 04/17 : Reproducible reports
+- [ ] Module 14, 04/13 - 04/17 : Interactive web apps
 
   - Finish portfolio piece 9 by Friday: 04/17
 
-- [ ] Module 15, 04/20 - 04/24 : Machine Learning
+- [ ] Module 15, 04/20 - 04/24 : Reproducible reports
 
   - Finish portfolio piece 10 by Friday: 04/24
 
