@@ -77,12 +77,12 @@ rearrange these labs and events to fit your needs.
 
   - Finish Lab 10 by Friday: 03/20
 
-- [ ] Module 11, 03/23 - 03/27 : overfitting and the Cross validation
+- [ ] Module 11, 03/23 - 03/27 : Simulating data
 
   - Finish Lab 11 by Friday: 03/27
   - Finish portfolio piece 5 by Friday: 03/27
 
-- [ ] Module 12, 03/30 - 04/03 : Quantifying uncertainty
+- [ ] Module 12, 03/30 - 04/03 : overfitting and the Cross validation
 
   - Finish portfolio piece 6 by Friday: 04/03
 
